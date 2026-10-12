@@ -16,3 +16,5 @@ Its purpose is to provide an additional verification and decision-support layer 
 3. **Not recommended to run:** Evidence conflicts with the claimed identity or indicates a meaningful concern.
 
 UCNT is licensed under the MIT License.
+
+This is all a proposed utility I actually don't know when I can start producing it
