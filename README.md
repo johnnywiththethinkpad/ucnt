@@ -5,7 +5,7 @@
 UCNT is not intended to replace Wine, Proton, Bottles, or antivirus software. It cannot guarantee that an executable is harmless or eliminate every security risk.
 Its purpose is to provide an additional verification and decision-support layer before execution.
 
-## 1. Core Architecture
+##  Core Architecture
 * **The Input:** Windows executable (`.exe`) -> User double-clicks a file or selects “Verify with UCNT”.
 * **UCNT Inspection Engine:** Computes SHA-256, reads PE metadata, checks digital signatures, publisher info, and file identity. 
 * **UCDE (User Control Decision Engine):** Evaluates evidence, resolves conflicts, records uncertainty, and produces a recommendation.
