@@ -15,6 +15,8 @@ Its purpose is to provide an additional verification and decision-support layer 
 2. **Unable to recommend:** Evidence is insufficient or inconclusive.
 3. **Not recommended to run:** Evidence conflicts with the claimed identity or indicates a meaningful concern.
 
-UCNT is licensed under the MIT License.
+Pronunciation: *U-C-N-T* spelled out letter-by-letter. Please do not mash it into one syllable, I know what it sounds like.
 
 This is all a proposed utility I actually don't know when I can start producing it
+
+UCNT is licensed under the MIT License.
