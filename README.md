@@ -12,9 +12,6 @@ ucNT is not intended to replace Wine, Proton, Bottles, or antivirus software. It
 2. **Unable to recommend:** Evidence is insufficient or inconclusive.
 3. **Not recommended to run:** Evidence conflicts with the claimed identity or indicates a meaningful concern.
 
-## Pronunciation
-Pronunciation: *U-C-N-T* spelled out letter-by-letter. Please do not mash it into one syllable, I know what it sounds like.
-
 ## Project Status
 ucNT is currently in architectural design. Development and initial logic planning are underway. 
 
